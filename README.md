@@ -21,13 +21,16 @@ Set Up SIEM:
 
 Follow the setup process for the SIEM platform.
 Ensure it is capable of ingesting logs from specified sources (e.g., firewall, endpoint devices).
+
 Ingest Logs:
 
 Configure the system to collect logs from network and security devices.
 Ensure log parsing is correctly configured for meaningful data interpretation.
+
 Configure Alerts:
 
 Create alerting rules to trigger notifications for events such as multiple failed login attempts, abnormal network traffic, etc.
+
 Analyze Logs:
 
 Analyze ingested logs to detect patterns and identify potential threats.
