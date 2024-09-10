@@ -1,5 +1,6 @@
 # SIEM_ELK
 SIEM Setup and Log Analysis Project
+
 This project involves setting up a Security Information and Event Management (SIEM) system to collect, analyse and monitor log data from various security sources. The primary objective is to enhance security operations through the configuration of alert rules and event correlation.
 
 Key Features:
