@@ -31,6 +31,7 @@ Create alerting rules to trigger notifications for events such as multiple faile
 Analyze Logs:
 
 Analyze ingested logs to detect patterns and identify potential threats.
+
 Report Findings:
 
 Generate a report summarizing key insights from the log analysis, including any detected incidents and recommendations for mitigation.
